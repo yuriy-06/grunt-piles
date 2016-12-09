@@ -1,1 +1,1 @@
-generation computer model of piles for lira-sapr program, writed in Common Lisp
+generation computer model of piles for "lira-sapr" program, written in Common Lisp
